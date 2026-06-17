@@ -6,8 +6,8 @@ I'm **Junfei Zhan**, an incoming CS PhD student at Imperial College London.
 - 📫 Reach me at: junfeizhan7@gmail.com
 - 😄 Pronouns: He/Him
 
-> 🍃/📜  竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
-> *Bamboo cane, straw sandals — lighter than a horse. Who's afraid? In my straw cloak, I'll walk a lifetime of misty rain, come as it may.*
+> 🍃/📜  竹杖芒鞋轻胜马
+> *Bamboo cane, straw sandals — lighter than a horse.*
 >
 > *— 苏轼《定风波》*
 
