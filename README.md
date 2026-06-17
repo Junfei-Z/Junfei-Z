@@ -7,6 +7,7 @@ I'm **Junfei Zhan**, an incoming CS PhD student at Imperial College London.
 - 😄 Pronouns: He/Him
 
 > 🍃/📜  竹杖芒鞋轻胜马
+> 
 > *Bamboo cane, straw sandals — lighter than a horse.*
 >
 > *— 苏轼《定风波》*
