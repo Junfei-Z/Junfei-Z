@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img width="800" alt="banner" src="https://github.com/user-attachments/assets/c96810d9-4e4e-40cf-a5f5-a4d4461d3cb9" />
-</p> -->
-
 ## Hi there 👋
 
 I'm **Junfei Zhan**, an incoming CS PhD student at Imperial College London.
@@ -15,6 +11,13 @@ I'm **Junfei Zhan**, an incoming CS PhD student at Imperial College London.
 > *Bamboo cane, straw sandals — lighter than a horse.*
 >
 > *— 苏轼《定风波》*
+
+<p align="center">
+  <img width="800" alt="意境图" src="https://github.com/user-attachments/assets/328cc520-ba9e-43e8-9d8c-a03c749daae4" />
+</p>
+
+
+
 
 
 
